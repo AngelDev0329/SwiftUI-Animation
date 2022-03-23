@@ -14,15 +14,14 @@ struct ContentView: View {
     @State private var animateEnd = true
     var body: some View {
         ZStack {
-            Text("CodewithArvind").offset(y: -350)
+            Text("CodewithArvind")
+                .offset(y: -350)
                 .font(.system(size: 18))
             Image("insta")
             Circle()
-                .trim(from: animateStart ? 1/3 : 1/9,
-                      to: animateEnd ? 2/5 : 1)
+                .trim(from: animateStart ? 1/3 : 1/9, to: animateEnd ? 2/5 : 1)
                 .stroke(lineWidth: 7)
-                .rotationEffect(
-                .degrees(isCircleRotating ? 360 : 0))
+                .rotationEffect(.degrees(isCircleRotating ? 360 : 0))
                 .frame(width: 150, height: 150)
                 .foregroundColor(Color.blue)
                 .onAppear() {

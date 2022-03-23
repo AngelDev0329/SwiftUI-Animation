@@ -24,7 +24,7 @@ struct ContentView: View {
             
             HStack {
                 AnimatedDots()
-                    .frame(width: 120, height: 100, alignment: .center)
+                    .frame(width: 300, height: 100, alignment: .center)
                     .padding()
             }
         }

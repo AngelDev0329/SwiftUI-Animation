@@ -13,7 +13,15 @@ struct Ripple: View {
     
     var body: some View {
         ZStack {
-                       
+            Circle()
+                .stroke(lineWidth: 7)
+                .fill(Color.gray.opacity(0.2))
+                .frame(width: animating ? 200 : 600, height: animating ? 200 : 600)
+                .shadow(color: Color.black.opacity(0.2), radius: 10, x: 10, y: 10)
+                .shadow(color: Color.white.opacity(0.7), radius: 10, x: -5, y: -5)
+                .blur(radius: 5)
+                .opacity(animating ? 1 : 0)
+            
             Circle()
                 .stroke(lineWidth: 7)
                 .fill(Color.gray.opacity(0.2))
