@@ -1,7 +1,5 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-## Animations
+## Animations<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Side Menu
 <img src="https://i.imgur.com/YYihmZy.gif" width="475" height="400"/>
