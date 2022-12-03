@@ -2,15 +2,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/arvindptl">
-  <img align="left" alt="Arvind Patel | Twitter" width="22px" src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/Source/twitter.svg" />
+  <img align="left" alt="Arvind Patel | Twitter" width="22px" src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/Source/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/arvindcs/">
-  <img align="left" alt="Arvind's LinkdeIN" width="22px" src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/Source/linkedin.svg" />
+  <img align="left" alt="Arvind's LinkdeIN" width="22px" src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/Source/linkedin.svg" />
 </a>
 
 <a href="https://t.me/arvindcs">
-  <img align="left" alt="Arvind's Telegram" width="22px" src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/Source/telegram.svg" />
+  <img align="left" alt="Arvind's Telegram" width="22px" src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/Source/telegram.svg" />
 </a>
 
 <a href="https://www.instagram.com/codewitharvind/">
@@ -60,7 +60,7 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 <img src="https://i.imgur.com/1fdhc8R.gif" width="475" height="400"/>
 
 #### Tinder Swipe
-<img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/tinder-template/tinder-template.gif" width="475" height="400"/>
+<img src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/tinder-template/tinder-template.gif" width="475" height="400"/>
 
 #### Ring Loading
 <img src="https://i.imgur.com/nQfR3nO.gif" width="475" height="400"/>
