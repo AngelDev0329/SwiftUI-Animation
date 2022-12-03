@@ -31,7 +31,7 @@
 <img src="https://i.imgur.com/1fdhc8R.gif" width="475" height="400"/>
 
 #### Tinder Swipe
-<img src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/tinder-template/tinder-template.gif" width="475" height="400"/>
+<img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/tinder-template/tinder-template.gif" width="475" height="400"/>
 
 #### Ring Loading
 <img src="https://i.imgur.com/nQfR3nO.gif" width="475" height="400"/>
@@ -49,6 +49,6 @@
 <img src="https://i.imgur.com/FhhrtkF.gif" width="475" height="400"/>
 
 #### Instagram Loading Spinner
-<img src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/InstagramLodingAnimation/InstagramLoadingAnimation.gif" width="475" height="400"/>
+<img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/InstagramLodingAnimation/InstagramLoadingAnimation.gif" width="475" height="400"/>
 
 
