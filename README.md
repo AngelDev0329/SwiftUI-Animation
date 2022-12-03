@@ -78,15 +78,6 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 <img src="https://i.imgur.com/FhhrtkF.gif" width="475" height="400"/>
 
 #### Instagram Loading Spinner
-<img src="https://github.com/Arvindcs/SwiftUI-Animation/blob/master/InstagramLodingAnimation/InstagramLoadingAnimation.gif" width="475" height="400"/>
+<img src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/InstagramLodingAnimation/InstagramLoadingAnimation.gif" width="475" height="400"/>
 
-
-## Donation 
-If you like this project and want to support me, you can do it by helping me to get a pint. ;)
-
-[![Paypal](https://github.com/Arvindcs/SwiftUI-Animation/blob/master/Source/paypal.png)](https://paypal.me/arvindp07)
-
-
-## Credits
-© Arvind Patel | 2020
 
