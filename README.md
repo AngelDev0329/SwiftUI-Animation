@@ -78,6 +78,6 @@ Hi, I'm [Arvind Patel](https://arvindcs.github.io/), a iOS Developer 🚀 from I
 <img src="https://i.imgur.com/FhhrtkF.gif" width="475" height="400"/>
 
 #### Instagram Loading Spinner
-<img src="https://github.com/AngelDev727/SwiftUI-Animation/blob/master/InstagramLodingAnimation/InstagramLoadingAnimation.gif" width="475" height="400"/>
+<img src="[https://github.com/AngelDev727/SwiftUI-Animation/blob/master/InstagramLodingAnimation/InstagramLoadingAnimation.gif](https://github.com/AngelDev727/SwiftUI-Animation/blob/main/InstagramLodingAnimation/InstagramLoadingAnimation.gif)" width="475" height="400"/>
 
 
